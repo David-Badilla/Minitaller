@@ -1,0 +1,6 @@
+#Ignorar pdf 
+*.pdf
+*.cpp
+*~
+*.db 
+Personal/
